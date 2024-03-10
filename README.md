@@ -1,4 +1,4 @@
- # python-ternar-circle-tasks
+ # python-ternary-circle-tasks
 Python Задачи на тернарный оператор и циклы
 
 ## Задача 1 task1.py
